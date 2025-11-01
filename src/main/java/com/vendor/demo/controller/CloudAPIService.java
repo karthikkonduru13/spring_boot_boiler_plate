@@ -43,7 +43,7 @@ public class CloudAPIService {
 
   @GetMapping
   public String checkAPIStatus() {
-      return "the MicroService API is up and running - om sai ram - v6";
+      return "the MicroService API is up and running - om sai ram - v7 sowmya";
   }
 
 }
